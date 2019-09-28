@@ -1,0 +1,14 @@
+REVERSE INTEGER
+
+java implementation
+
+1032 / 1032 test cases passed.
+Status: Accepted
+Runtime: 3 ms
+Memory Usage: 34 MB
+
+Your runtime beats 8.50 % of java submissions.
+
+Your memory usage beats 6.66 % of java submissions.
+
+COULD BE MUCH BETTER
