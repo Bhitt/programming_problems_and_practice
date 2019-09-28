@@ -1,0 +1,10 @@
+java implementation
+
+29 / 29 test cases passed.
+Status: Accepted
+Runtime: 19 ms
+Memory Usage: 37.2 MB
+
+Your runtime beats 29.82 % of java submissions.
+
+Your memory usage beats 98.95 % of java submissions.
