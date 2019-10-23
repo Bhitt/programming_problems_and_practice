@@ -1,0 +1,15 @@
+Java implementation
+
+Note: decided not to solve this with a stack since I already knew that solution
+from formal languages class.
+
+76 / 76 test cases passed.
+Status: Accepted
+Runtime: 81 ms
+Memory Usage: 37.4 MB
+
+Runtime: 81 ms, faster than 5.08% of Java online submissions for Valid Parentheses.
+Memory Usage: 37.4 MB, less than 5.06% of Java online submissions for Valid Parentheses.
+
+Note: this method would be much faster if implemented in python since string operations
+are very slow in java.
